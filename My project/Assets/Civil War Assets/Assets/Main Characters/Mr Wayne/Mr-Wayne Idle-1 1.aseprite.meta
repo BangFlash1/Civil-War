@@ -1,0 +1,1311 @@
+fileFormatVersion: 2
+guid: 51d9a20ce266b1b4b946846f59f20364
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638457934441057407
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Mr-Wayne Idle-1 1_Frame_0
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 21
+      height: 31
+    spriteID: 2a9af32b36770ac4c8711627bc9e75b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: Mr-Wayne Idle-1 1_Frame_1
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 123
+      width: 21
+      height: 31
+    spriteID: a90c795a63ed51342a0710cf16453af9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 123}
+  - name: Mr-Wayne Idle-1 1_Frame_2
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 21
+      height: 31
+    spriteID: a045534a7f08121429ff2b6c1f0ff558
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: Mr-Wayne Idle-1 1_Frame_3
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 21
+      height: 31
+    spriteID: 9c0d10606ecf337458a0b9682639f3f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: Mr-Wayne Idle-1 1_Frame_4
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 4
+      width: 21
+      height: 31
+    spriteID: 2e4c7cf299aca6d42be45ce9a9b91589
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_5
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 43
+      width: 21
+      height: 31
+    spriteID: 7354370bc98014347857f518bcfdef3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 43}
+  - name: Mr-Wayne Idle-1 1_Frame_6
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 82
+      width: 21
+      height: 31
+    spriteID: 5ca39ad83cbcc83428a072936e0dce0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 82}
+  - name: Mr-Wayne Idle-1 1_Frame_7
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 121
+      width: 21
+      height: 31
+    spriteID: addd92a8feac4884fbc8d9e63b4f05f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 121}
+  - name: Mr-Wayne Idle-1 1_Frame_8
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 160
+      width: 21
+      height: 31
+    spriteID: abacb8861145cbc49be99c6b11538ddf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 160}
+  - name: Mr-Wayne Idle-1 1_Frame_9
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 199
+      width: 21
+      height: 31
+    spriteID: 0bd5193e74ace64448fa91488c52c3e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 199}
+  - name: Mr-Wayne Idle-1 1_Frame_10
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 4
+      width: 21
+      height: 31
+    spriteID: cf3442de34803ee4abff29e6faf5250c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_11
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 43
+      width: 21
+      height: 31
+    spriteID: 9128d0d5fc01c6c44a68497f3f409659
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 43}
+  - name: Mr-Wayne Idle-1 1_Frame_12
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 82
+      width: 21
+      height: 31
+    spriteID: 0b6fd68b5f199f440a0c316630fb5148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 82}
+  - name: Mr-Wayne Idle-1 1_Frame_13
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 121
+      width: 21
+      height: 31
+    spriteID: 5c291c1f7869e1f4ba3c95f1928524c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 121}
+  - name: Mr-Wayne Idle-1 1_Frame_14
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 160
+      width: 21
+      height: 31
+    spriteID: 972b89f2cacbf5a4697413b98a5bae42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 160}
+  - name: Mr-Wayne Idle-1 1_Frame_15
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 199
+      width: 21
+      height: 31
+    spriteID: 8fedfd3992154a843a6cb50c5e97f7e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 199}
+  - name: Mr-Wayne Idle-1 1_Frame_16
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 4
+      width: 21
+      height: 31
+    spriteID: a0b644615bc64ca48b88c843a002a749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_17
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 43
+      width: 21
+      height: 31
+    spriteID: 890bab4a0a2cb6e49bf27fe54ade5f9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 43}
+  - name: Mr-Wayne Idle-1 1_Frame_18
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 82
+      width: 21
+      height: 31
+    spriteID: 545a1b3ccd86e0645a68f0a3d7e6128b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 82}
+  - name: Mr-Wayne Idle-1 1_Frame_19
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 121
+      width: 21
+      height: 31
+    spriteID: 0bc1d2da58417524e9572ef3417d245b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 121}
+  - name: Mr-Wayne Idle-1 1_Frame_20
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 160
+      width: 21
+      height: 31
+    spriteID: 542a6773713bd1a4e9e4c3360566aaad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 160}
+  - name: Mr-Wayne Idle-1 1_Frame_21
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 199
+      width: 21
+      height: 31
+    spriteID: b35cacde893ec49489aea50f73ad681c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 199}
+  - name: Mr-Wayne Idle-1 1_Frame_22
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 4
+      width: 21
+      height: 31
+    spriteID: 03ada59d4ef73ef4a9152dca60614b30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_23
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 43
+      width: 21
+      height: 31
+    spriteID: 66a5977482f43b0478d4bf59ca9882d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 43}
+  - name: Mr-Wayne Idle-1 1_Frame_24
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 82
+      width: 21
+      height: 31
+    spriteID: 6eba3da0dd9e2aa45b24a3767a62f120
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 82}
+  - name: Mr-Wayne Idle-1 1_Frame_25
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 121
+      width: 21
+      height: 31
+    spriteID: f4fe4e6f3a012c349911d0e6b9f7c634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 121}
+  - name: Mr-Wayne Idle-1 1_Frame_26
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 160
+      width: 21
+      height: 31
+    spriteID: 2fecdb00a4b48a946b9124545252c413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 160}
+  - name: Mr-Wayne Idle-1 1_Frame_27
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 199
+      width: 21
+      height: 31
+    spriteID: b7e1974270123984bb8dc84a7b2e4036
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 199}
+  - name: Mr-Wayne Idle-1 1_Frame_28
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 4
+      width: 21
+      height: 31
+    spriteID: 9dc6a7409b5967742b4f181f1ee801c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_29
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 43
+      width: 21
+      height: 31
+    spriteID: 0b72c2c72302a264e81ed5c21ec9406d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 43}
+  - name: Mr-Wayne Idle-1 1_Frame_30
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 82
+      width: 21
+      height: 31
+    spriteID: cc1c88fb55a31b04985fb5172bd1344e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 82}
+  - name: Mr-Wayne Idle-1 1_Frame_31
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 121
+      width: 21
+      height: 31
+    spriteID: 15b524aee81e19045a429be91749154b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 121}
+  - name: Mr-Wayne Idle-1 1_Frame_32
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 160
+      width: 21
+      height: 31
+    spriteID: 292b16fefdac63f4fafd3db18a6790b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 160}
+  - name: Mr-Wayne Idle-1 1_Frame_33
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 199
+      width: 21
+      height: 31
+    spriteID: 9e4eac307f5415e458c4b3f3bf4fb869
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 199}
+  - name: Mr-Wayne Idle-1 1_Frame_34
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 4
+      width: 21
+      height: 31
+    spriteID: 4f175ee4ee52c9d4e90ea6b73fcf1903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_35
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 43
+      width: 21
+      height: 31
+    spriteID: b5927fd9ec3a451429dbfbf71ea2e5ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 43}
+  - name: Mr-Wayne Idle-1 1_Frame_36
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 82
+      width: 21
+      height: 31
+    spriteID: 64e270572cbd750469f6bb3975fcbbcc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 82}
+  - name: Mr-Wayne Idle-1 1_Frame_37
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 121
+      width: 21
+      height: 31
+    spriteID: e0bf633b81661d344883364c85c8d19c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 121}
+  - name: Mr-Wayne Idle-1 1_Frame_38
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 21
+      height: 32
+    spriteID: ae0e71995f281b9489af4a4fe34b8c3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Mr-Wayne Idle-1 1_Frame_39
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 21
+      height: 32
+    spriteID: 93483ad4a48502f42a15b8f948710318
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 44}
+  - name: Mr-Wayne Idle-1 1_Frame_40
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 160
+      width: 21
+      height: 31
+    spriteID: 3d40a39fa6a80064a96deefeeabea3b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 160}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 31893155
+    name: Mr-Wayne Idle-1 1
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Mr-Wayne Idle-1 1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 2a9af32b36770ac4c8711627bc9e75b9
+    - name: Mr-Wayne Idle-1 1_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: a90c795a63ed51342a0710cf16453af9
+    - name: Mr-Wayne Idle-1 1_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: a045534a7f08121429ff2b6c1f0ff558
+    - name: Mr-Wayne Idle-1 1_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 9c0d10606ecf337458a0b9682639f3f7
+    - name: Mr-Wayne Idle-1 1_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 2e4c7cf299aca6d42be45ce9a9b91589
+    - name: Mr-Wayne Idle-1 1_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 7354370bc98014347857f518bcfdef3f
+    - name: Mr-Wayne Idle-1 1_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 5ca39ad83cbcc83428a072936e0dce0e
+    - name: Mr-Wayne Idle-1 1_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: addd92a8feac4884fbc8d9e63b4f05f2
+    - name: Mr-Wayne Idle-1 1_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: abacb8861145cbc49be99c6b11538ddf
+    - name: Mr-Wayne Idle-1 1_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 0bd5193e74ace64448fa91488c52c3e3
+    - name: Mr-Wayne Idle-1 1_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: cf3442de34803ee4abff29e6faf5250c
+    - name: Mr-Wayne Idle-1 1_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 9128d0d5fc01c6c44a68497f3f409659
+    - name: Mr-Wayne Idle-1 1_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 0b6fd68b5f199f440a0c316630fb5148
+    - name: Mr-Wayne Idle-1 1_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 5c291c1f7869e1f4ba3c95f1928524c8
+    - name: Mr-Wayne Idle-1 1_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 972b89f2cacbf5a4697413b98a5bae42
+    - name: Mr-Wayne Idle-1 1_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 8fedfd3992154a843a6cb50c5e97f7e2
+    - name: Mr-Wayne Idle-1 1_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: a0b644615bc64ca48b88c843a002a749
+    - name: Mr-Wayne Idle-1 1_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 890bab4a0a2cb6e49bf27fe54ade5f9a
+    - name: Mr-Wayne Idle-1 1_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 545a1b3ccd86e0645a68f0a3d7e6128b
+    - name: Mr-Wayne Idle-1 1_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 0bc1d2da58417524e9572ef3417d245b
+    - name: Mr-Wayne Idle-1 1_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 542a6773713bd1a4e9e4c3360566aaad
+    - name: Mr-Wayne Idle-1 1_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: b35cacde893ec49489aea50f73ad681c
+    - name: Mr-Wayne Idle-1 1_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 03ada59d4ef73ef4a9152dca60614b30
+    - name: Mr-Wayne Idle-1 1_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 66a5977482f43b0478d4bf59ca9882d5
+    - name: Mr-Wayne Idle-1 1_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 6eba3da0dd9e2aa45b24a3767a62f120
+    - name: Mr-Wayne Idle-1 1_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: f4fe4e6f3a012c349911d0e6b9f7c634
+    - name: Mr-Wayne Idle-1 1_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 2fecdb00a4b48a946b9124545252c413
+    - name: Mr-Wayne Idle-1 1_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: b7e1974270123984bb8dc84a7b2e4036
+    - name: Mr-Wayne Idle-1 1_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 9dc6a7409b5967742b4f181f1ee801c7
+    - name: Mr-Wayne Idle-1 1_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 0b72c2c72302a264e81ed5c21ec9406d
+    - name: Mr-Wayne Idle-1 1_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: cc1c88fb55a31b04985fb5172bd1344e
+    - name: Mr-Wayne Idle-1 1_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 15b524aee81e19045a429be91749154b
+    - name: Mr-Wayne Idle-1 1_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 292b16fefdac63f4fafd3db18a6790b3
+    - name: Mr-Wayne Idle-1 1_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 9e4eac307f5415e458c4b3f3bf4fb869
+    - name: Mr-Wayne Idle-1 1_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 4f175ee4ee52c9d4e90ea6b73fcf1903
+    - name: Mr-Wayne Idle-1 1_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: b5927fd9ec3a451429dbfbf71ea2e5ba
+    - name: Mr-Wayne Idle-1 1_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 64e270572cbd750469f6bb3975fcbbcc
+    - name: Mr-Wayne Idle-1 1_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: e0bf633b81661d344883364c85c8d19c
+    - name: Mr-Wayne Idle-1 1_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 32
+      spriteId: ae0e71995f281b9489af4a4fe34b8c3c
+    - name: Mr-Wayne Idle-1 1_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 32
+      spriteId: 93483ad4a48502f42a15b8f948710318
+    - name: Mr-Wayne Idle-1 1_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 31
+      spriteId: 3d40a39fa6a80064a96deefeeabea3b4
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
