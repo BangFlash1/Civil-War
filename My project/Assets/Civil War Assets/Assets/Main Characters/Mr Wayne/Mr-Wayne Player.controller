@@ -9,7 +9,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Running
+    m_ConditionEvent: running
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 542988644122716298}
@@ -61,7 +61,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 2
-    m_ConditionEvent: Running
+    m_ConditionEvent: running
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -6345300012164185819}
@@ -111,7 +111,7 @@ AnimatorController:
   m_Name: Mr-Wayne Player
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Running
+  - m_Name: running
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
