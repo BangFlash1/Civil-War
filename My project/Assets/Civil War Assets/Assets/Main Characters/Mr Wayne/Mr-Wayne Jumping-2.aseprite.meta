@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bf269a338e282bb4fb056af529dcf519
+guid: 4ed1552543cb31043a835a43c5023d15
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638457001942184297
+  platformSettingsDirtyTick: 638458545722038097
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,9 +121,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Mr-Wayne Jumping-1
+  - name: Mr-Wayne Jumping-2
     originalName: 
-    pivot: {x: 1.0714287, y: -1.25}
+    pivot: {x: 0.5, y: -0.107142866}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 28
       height: 28
-    spriteID: 9de643a2d248d8643ad19660e12d9b02
+    spriteID: 0eeb7b8bf7d711645a747a00e3816f79
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,20 +144,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 2519104
-    name: Mr-Wayne Jumping-1
+    guid: 1192686371
+    name: Mr-Wayne Jumping-2
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Mr-Wayne Jumping-1
+    - name: Mr-Wayne Jumping-2
       frameIndex: 0
       cellRect:
         x: 2
-        y: 35
+        y: 3
         width: 28
         height: 28
-      spriteId: 9de643a2d248d8643ad19660e12d9b02
+      spriteId: 0eeb7b8bf7d711645a747a00e3816f79
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -188,4 +188,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 32, y: 32}
