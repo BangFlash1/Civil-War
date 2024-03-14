@@ -1,9 +1,8 @@
-using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovementGallagher : MonoBehaviour
 {
     private Rigidbody2D rb;
     private SpriteRenderer sprite;
@@ -16,17 +15,14 @@ public class PlayerMovement : MonoBehaviour
     public global::System.Single JumpForce1 { get => jumpForce; set => jumpForce = value; }
 
     private enum MovementState { idle, running, jumping }
-
-    // Start is called before the first frame update
-    private void Start()
+    void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        sprite = GetComponent<SpriteRenderer>();
+        sprite = GetComponent<SpriteRenderer>();        
     }
 
-    // Update is called once per frame
-    private void Update()
+    void Update()
     {
         dirX = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
@@ -36,9 +32,9 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, JumpForce);
         }
 
-        UpdateAnimationState();
-
+        UpdateAnimationState();        
     }
+
     private void UpdateAnimationState()
     {
         var scale = transform.localScale;
@@ -49,13 +45,11 @@ public class PlayerMovement : MonoBehaviour
         if (dirX > 0f)
         {
             state = MovementState.running;
-//            sprite.flipX = false;
             transform.localScale = scale;
         }
         else if (dirX < 0f)
         {
             state = MovementState.running;
-//            sprite.flipX = true;
             transform.localScale = scale;
         }
         else
@@ -71,5 +65,4 @@ public class PlayerMovement : MonoBehaviour
         
         anim.SetInteger("state", (int)state);
     }
-       
 }
