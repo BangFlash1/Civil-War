@@ -12,6 +12,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 7f;
     [SerializeField] private float jumpForce = 14f;
 
+    public global::System.Single JumpForce { get => JumpForce1; set => JumpForce1 = value; }
+    public global::System.Single JumpForce1 { get => jumpForce; set => jumpForce = value; }
+
     private enum MovementState { idle, running, jumping }
 
     // Start is called before the first frame update
@@ -30,7 +33,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+            rb.velocity = new Vector2(rb.velocity.x, JumpForce);
         }
 
         UpdateAnimationState();
@@ -38,18 +41,22 @@ public class PlayerMovement : MonoBehaviour
     }
     private void UpdateAnimationState()
     {
+        var scale = transform.localScale;
+        scale.x = Mathf.Sign(dirX);
 
         MovementState state;
 
         if (dirX > 0f)
         {
             state = MovementState.running;
-            sprite.flipX = false;
+//            sprite.flipX = false;
+            transform.localScale = scale;
         }
         else if (dirX < 0f)
         {
             state = MovementState.running;
-            sprite.flipX = true;
+//            sprite.flipX = true;
+            transform.localScale = scale;
         }
         else
         {
